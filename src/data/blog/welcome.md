@@ -15,6 +15,7 @@ description:
 
 ## 欢迎来到我的博客
 
+niihao
 大家好！欢迎来到我的个人博客。这是我使用 Astro 和 AstroPaper 主题搭建的第一个博客网站。
 
 ### 关于这个博客
