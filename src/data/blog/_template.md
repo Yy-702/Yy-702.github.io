@@ -1,7 +1,7 @@
 ---
 author: Yy
-pubDatetime: YYYY-MM-DD HH:MM:SS
-modDatetime: YYYY-MM-DD HH:MM:SS
+pubDatetime: YYYY-MM-DDTHH:MM:SSZ
+modDatetime: YYYY-MM-DDTHH:MM:SSZ
 title: 文章标题
 slug: article-slug
 featured: false
